@@ -1,0 +1,1 @@
+<option>Скос</option><option>Фрез с 1 стороны</option><option>Фрез бар</option><option>Еврозапил</option><option>Скос+фрез с 1 стороны</option><option>Скос+фрез бар</option><option>Скос+еврозапил</option><option>Фрез с 1 стороны+фрез бар</option><option>Фрез с 1 стороны+ еврозапил</option><option>Фрез бар + еврозапил</option>

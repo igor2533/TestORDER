@@ -1,0 +1,1 @@
+<option>Плинтус</option><option>Уголок внутренний</option><option>Уголок наружный</option><option>Заглушка</option>

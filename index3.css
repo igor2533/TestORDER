@@ -1,0 +1,764 @@
+html {
+    background: #9e9e9e2b;
+}
+
+.add_kusok_stol{background: red;
+    color: white;
+    font-size: 22px;
+padding-left: 5px;border: none;    margin-bottom: 200px;
+    margin-left: 5px;
+padding-right: 5px;}
+
+    a.add_kusok_stol:hover {
+    cursor: -webkit-grab;
+}
+
+
+#v_nach_bt{    background: #03A9F4;
+    color: white;
+    font-size: 25px;
+    padding-left: 5px;
+    border: none;
+    margin-bottom: 200px;
+    margin-left: 5px;
+    padding-right: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    padding-top: 13px;
+    padding-bottom: 14px;}
+
+a#v_nach_bt:hover {
+    cursor: -webkit-grab;
+}
+
+textarea {
+    border: solid 1px #b6cdd0;
+}
+input, select {
+    border: solid 1px #b6cdd0;
+   height: 56px;
+   margin-left: 4px;
+    margin-right: 4px;
+    font-size: 12px;
+    color: black;
+    font-weight: bold;
+}
+
+input#korpus_checkbox_id_verh {
+    position: relative;
+    top: 24px;
+}
+
+input#korpus_checkbox_id_niz {
+    position: relative;
+    top: 24px;
+}
+
+input#glubina_kusk_stol {
+    width: 95px;
+}
+
+input#korpus_shirina_id_verh {
+   width: 260px;
+}
+
+input#korpus_visota_id_verh {
+    width: 77px;
+}
+
+
+input#korpus_glubina_id_verh {
+    width: 83px;
+}
+
+
+input#korpus_shirina_id_niz {
+   width: 260px;
+}
+
+input#korpus_visota_id_niz {
+    width: 77px;
+}
+
+
+input#korpus_glubina_id_niz {
+    width: 83px;
+}
+
+
+input#shirina_raspil_id {
+    width: 81px;
+}
+
+input#visota_raspil_id {
+    width: 81px;
+}
+
+input#dlina_stenovoi {
+    width: 60px;
+}
+
+input#visota_stenovoi {
+    width: 81px;
+}
+
+input#shir_kus_stol {
+    width: 81px;
+}
+
+input#dlina_kus_stol {
+    width: 81px;
+}
+
+input#glubina_kusk_stol {
+    width: 81px;
+}
+
+input#colvo_raspil_id {
+    width: 81px;
+}
+h1 {
+    font-variant-caps: all-petite-caps;
+}
+
+
+.color_carcas_niz {
+    margin-top: 9px;
+}
+
+
+li#li_type_fasad_id_niz {
+
+    color: #2196F3;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+li#li_type_raspil_id {
+   
+    color: #2196F3;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.li_type_raspil_class {
+   
+    color: #2196F3;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+
+
+.li_korpus_verh_class {
+ 
+    color: #2196F3;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+
+li#li_korpus_niz_id {
+  
+    color: #2196F3;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.li_type_mat_stol_class {
+  
+    color: #2196F3;
+    font-weight: bold;
+    font-size: 30px;
+margin-top: 10px;
+}
+
+.li_class_stenov
+{
+   
+    color: #2196F3;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+li#li_korpus_yawik_id{
+
+   
+    color: #2196F3;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 10px;
+
+}
+
+li{
+
+        list-style: none;
+}
+
+#add_text_c {
+    background: #4CAF50;
+    color: white;
+    font-size: 22px;
+    padding-left: 5px;
+    margin-left: 5px;
+    padding-right: 5px;
+}
+
+textarea#korpus_comment_id_verh {
+   height: 56px;
+    position: relative;
+    top: 24px;
+    width: 360px;
+}
+
+textarea#korpus_comment_id_niz {
+   height: 56px;
+    position: relative;
+    top: 24px;
+    width: 360px;
+}
+
+textarea#comment_raspil_id {
+     height: 56px;
+    position: relative;
+    top: 24px;
+    width: 392px;
+}
+
+
+textarea#komment_fasad_id_niz {
+     height: 56px;
+    position: relative;
+    top: 24px;
+    width: 392px;
+}
+
+
+textarea#komment_fasad_id_verh {
+     height: 56px;
+    position: relative;
+    top: 24px;
+    width: 392px;
+}
+
+input#korpus_kolbo_id_yawik {
+    width: 106px;
+}
+input#korpus_glubina_id_yawik {
+    width: 86px;
+}
+
+input#korpus_visota_id_yawik {
+    width: 72px;
+}
+
+input#korpus_shirina_id_yawik {
+    width: 69px;
+}
+
+textarea#korpus_razmery_id_yawik {
+    width: 352px;
+    height: 56px;
+    position: relative;
+    top: 24px;
+}
+
+.block_carcas {
+height: 100vh;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30vh;
+   
+}
+
+.block_carcas>div{
+  background: white; padding-top: 20px;    border: solid 1px #b2cde2;
+    padding-bottom: 20px;}
+   
+
+
+.color_carcas_verh {
+    
+}
+
+
+div#modules_blocks {
+    height: 100vh;    
+}
+
+
+div#modul_block_verh {
+    margin-top: 30vh;background: white;    border: solid 1px #b2cde2;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 60vh;
+    overflow: scroll;
+}
+div#modul_block_niz
+{
+   background: white;    border: solid 1px #b2cde2;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 60vh;
+    overflow: scroll;
+    margin-top: 80px;
+}
+
+.raspil_dsp {
+    height: 100vh;   padding-top: 17vh; 
+}
+
+
+
+
+
+div#pereiti_k_raspilu {
+    
+}
+
+
+
+
+
+div#block_raspila {
+ margin-top: 30vh;   background: white; margin-left: 50px;    border: solid 1px #b2cde2;
+    margin-right: 50px;
+}
+}
+
+div#block_fasadov {
+    height: 100vh;
+}
+
+div#block_fasadov>div {
+    margin-top: 30vh;
+      height: 67vh;
+    overflow: scroll;
+}
+
+div#block_sten_stol {
+    height: 100vh;
+}
+
+div#block_sten_stol>div {
+    margin-top: 30vh;
+}
+
+
+
+div#block_fasadov>div {
+    background: white;    border: solid 1px #b2cde2;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+div#block_sten_stol>div {
+    background: white;    border: solid 1px #b2cde2;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+div#block_fasadov {
+    height: 100vh;
+}
+
+a.dalee_kn {
+    background: #2196F3;
+    color: white;
+    font-size: 23px;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+    top: 18px;
+    font-weight: bold;
+}
+
+
+span#tehotdel {
+    font-size: 18px;
+    color: #F44336;
+}
+
+#head_m_1 {
+
+    font-size: 16px;
+    color: darkseagreen;
+}
+
+
+
+#komment_obw_karkasov{
+
+
+    height: 100px;
+    margin-top: 26px;
+    width: 586px;
+}
+
+
+textarea#fasady_obw_id {
+    height: 150px;
+    width: 600px;
+    margin-top: 30px;
+}
+
+#korpus_checkbox_id_verh{
+    display: none;
+}
+#tehotdel{
+    display: none;
+}
+
+a#delete_mod_verh {
+    color: #f10707;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+a#delete_mod_verh:hover {
+    cursor: -webkit-grab;
+    color: #FF5722;
+}
+
+
+
+a#delete_mod_niz {
+    color: #f10707;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+a#delete_mod_niz:hover {
+    cursor: -webkit-grab;
+    color: #FF5722;
+}
+
+
+a#delete_razpil {
+    color: red;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+a#delete_razpil:hover {
+    cursor: -webkit-grab;
+    color: #FF5722;
+}
+
+
+
+
+input#korpus_checkbox_id_niz {
+    display: none;
+}
+
+textarea#comment_carc_verh {
+    height: 56px;
+    position: relative;
+    top: 24px;
+}
+
+textarea#comment_carc_niz {
+    height: 56px;
+    position: relative;
+    top: 24px;
+}
+#art_kromk{
+
+    width: 100px;
+}
+
+.markvka_verh{
+
+width: 420px;
+}
+
+.markvka_niz{
+width: 420px;
+    
+}
+
+span#label_select_modul {
+    color: #4CAF50;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.add_ruchki {
+    background: red;
+    color: white;
+    font-size: 22px;
+    padding-left: 5px;
+    border: none;
+    margin-bottom: 200px;
+    margin-left: 5px;
+    padding-right: 5px;
+}
+
+
+.add_nozhki {
+    background: red;
+    color: white;
+    font-size: 22px;
+    padding-left: 5px;
+    border: none;
+    margin-bottom: 200px;
+    margin-left: 5px;
+    padding-right: 5px;
+}
+
+
+.add_lotok {
+    background: red;
+    color: white;
+    font-size: 22px;
+    padding-left: 5px;
+    border: none;
+    margin-bottom: 200px;
+    margin-left: 5px;
+    padding-right: 5px;
+}
+
+
+.add_sushka {
+    background: red;
+    color: white;
+    font-size: 22px;
+    padding-left: 5px;
+    border: none;
+    margin-bottom: 200px;
+    margin-left: 5px;
+    padding-right: 5px;
+}
+
+.add_kargo {
+    background: red;
+    color: white;
+    font-size: 22px;
+    padding-left: 5px;
+    border: none;
+    margin-bottom: 200px;
+    margin-left: 5px;
+    padding-right: 5px;
+}
+
+.add_planki {
+    background: red;
+    color: white;
+    font-size: 22px;
+    padding-left: 5px;
+    border: none;
+    margin-bottom: 200px;
+    margin-left: 5px;
+    padding-right: 5px;
+}
+
+.add_pod_meh {
+    background: red;
+    color: white;
+    font-size: 22px;
+    padding-left: 5px;
+    border: none;
+    margin-bottom: 200px;
+    margin-left: 5px;
+    padding-right: 5px;
+}
+
+.add_plint {
+    background: red;
+    color: white;
+    font-size: 22px;
+    padding-left: 5px;
+    border: none;
+    margin-bottom: 200px;
+    margin-left: 5px;
+    padding-right: 5px;
+}
+
+.add_petli {
+    background: red;
+    color: white;
+    font-size: 22px;
+    padding-left: 5px;
+    border: none;
+    margin-bottom: 200px;
+    margin-left: 5px;
+    padding-right: 5px;
+}
+
+
+.add_metabox {
+    background: red;
+    color: white;
+    font-size: 22px;
+    padding-left: 5px;
+    border: none;
+    margin-bottom: 200px;
+    margin-left: 5px;
+    padding-right: 5px;
+}
+
+.add_tandembox {
+    background: red;
+    color: white;
+    font-size: 22px;
+    padding-left: 5px;
+    border: none;
+    margin-bottom: 200px;
+    margin-left: 5px;
+    padding-right: 5px;
+}
+
+
+.add_modernbox {
+    background: red;
+    color: white;
+    font-size: 22px;
+    padding-left: 5px;
+    border: none;
+    margin-bottom: 200px;
+    margin-left: 5px;
+    padding-right: 5px;
+}
+
+.add_moiki {
+    background: red;
+    color: white;
+    font-size: 22px;
+    padding-left: 5px;
+    border: none;
+    margin-bottom: 200px;
+    margin-left: 5px;
+    padding-right: 5px;
+}
+
+.add_furn {
+    background: red;
+    color: white;
+    font-size: 22px;
+    padding-left: 5px;
+    border: none;
+    margin-bottom: 200px;
+    margin-left: 5px;
+    padding-right: 5px;
+}
+
+a#add_moiki:hover {
+    cursor: -webkit-grab;
+        color: #FFEB3B;
+}
+
+a#add_furn:hover {
+    cursor: -webkit-grab;
+        color: #FFEB3B;
+}
+
+a#add_modernbox:hover {
+    cursor: -webkit-grab;
+        color: #FFEB3B;
+}
+
+a#add_tandembox:hover {
+    cursor: -webkit-grab;
+        color: #FFEB3B;
+}
+
+a#add_metabox:hover {
+    cursor: -webkit-grab;
+        color: #FFEB3B;
+}
+
+
+a#add_plint:hover {
+    cursor: -webkit-grab;
+        color: #FFEB3B;
+}
+
+a#add_petli:hover {
+    cursor: -webkit-grab;
+        color: #FFEB3B;
+}
+
+
+a#add_ruchki:hover {
+    cursor: -webkit-grab;
+        color: #FFEB3B;
+}
+
+
+
+a#add_nozhki:hover {
+    cursor: -webkit-grab;
+        color: #FFEB3B;
+}
+
+
+a#add_lotok:hover {
+    cursor: -webkit-grab;
+       color: #FFEB3B;
+}
+
+a#add_sushka:hover {
+    cursor: -webkit-grab;
+        color: #FFEB3B;
+}
+a#add_kargo:hover {
+    cursor: -webkit-grab;
+       color: #FFEB3B;
+}
+
+a#add_planki:hover {
+    cursor: -webkit-grab;
+       color: #FFEB3B;
+}
+
+a#add_pod_meh:hover {
+    cursor: -webkit-grab;
+       color: #FFEB3B;
+}
+
+
+
+
+
+div#block_ruchki,#block_nozhki,
+#block_lotki,
+#block_sushki,
+#block_kargo,
+#block_planki,
+#block_plint,
+#block_pod_meh,
+#block_petli,
+#block_metabox,
+#block_tandembox,
+#block_modernbox,
+#block_moiki,
+#block_furn_dop {
+    padding-top: 30vh;
+    padding-bottom: 30vh;
+}
+
+#green_raschet {
+    background: #FF5722;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+    position: relative;
+    bottom: 18px;
+}
+
+#green_raschet:hover {
+background: #00BCD4;
+}
